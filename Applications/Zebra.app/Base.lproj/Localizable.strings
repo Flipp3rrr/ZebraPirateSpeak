@@ -22,9 +22,9 @@
 "Info" = "Info";
 "Welcome to the Zebra Beta!" = "Welcome t' the Ship!";
 "Changelog" = "Changelog";
-"Community Repos" = "Community Maps";
-"Transfer Sources from %@" = "Transfer Maps from %@";
-"Move all sources from %@ to Zebra" = "Move all sources from %@ t' Zebra";
+"Community Repos" = "Community Sea Maps";
+"Transfer Sources from %@" = "Transfer sea maps from %@";
+"Move all sources from %@ to Zebra" = "Move all sea maps from %@ t' Zebra";
 "Utility repo for %@" = "Utility repo for %@";
 "Transfer Sources" = "Transfer Sources";
 "Utilities" = "Utilities";
