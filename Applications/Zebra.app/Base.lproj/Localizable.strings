@@ -1,8 +1,8 @@
 // Common
 
-"Cancel" = "Cancel";
+"Cancel" = "Abandon ship";
 "No" = "No";
-"Ok" = "Ok";
+"Ok" = "Aye";
 "Error" = "Error";
 "Retry" = "Retry";
 "Edit" = "Edit";
@@ -11,15 +11,16 @@
 "Done" = "Done";
 
 // Tab controller
-"Packages in Queue" = "Packages in Queue";
-"Package in Queue" = "Package in Queue";
+
+"Packages in Queue" = "Bottles of rum in Queue";
+"Package in Queue" = "Bottle of rum in Queue";
 "Tap to manage Queue" = "Tap to manage Queue";
 
 // Home
 
 "Home" = "Home";
 "Info" = "Info";
-"Welcome to the Zebra Beta!" = "Welcome to the Zebra Beta!";
+"Welcome to the Zebra Beta!" = "Welcome to the Ship!";
 "Changelog" = "Changelog";
 "Community Repos" = "Community Repos";
 "Transfer Sources from %@" = "Transfer Sources from %@";
