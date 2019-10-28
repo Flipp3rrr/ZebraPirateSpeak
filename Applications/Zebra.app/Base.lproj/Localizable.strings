@@ -1,14 +1,14 @@
 // Common
 
 "Cancel" = "Abandon ship";
-"No" = "No";
+"No" = "Nay";
 "Ok" = "Aye";
 "Error" = "Error";
 "Retry" = "Retry";
 "Edit" = "Edit";
 "Login" = "Login";
-"Close" = "Close";
-"Done" = "Done";
+"Close" = "Shut";
+"Done" = "Finished scrubbing the deck";
 
 // Tab controller
 
@@ -18,7 +18,7 @@
 
 // Home
 
-"Home" = "Home";
+"Home" = "Home port";
 "Info" = "Info";
 "Welcome to the Zebra Beta!" = "Welcome to the Ship!";
 "Changelog" = "Changelog";
