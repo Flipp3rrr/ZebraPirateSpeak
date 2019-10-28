@@ -14,17 +14,17 @@
 
 "Packages in Queue" = "Bottles of rum in Queue";
 "Package in Queue" = "Bottle of rum in Queue";
-"Tap to manage Queue" = "Tap to manage Queue";
+"Tap to manage Queue" = "Tap t' manage Queue";
 
 // Home
 
 "Home" = "Home port";
 "Info" = "Info";
-"Welcome to the Zebra Beta!" = "Welcome to the Ship!";
+"Welcome to the Zebra Beta!" = "Welcome t' the Ship!";
 "Changelog" = "Changelog";
-"Community Repos" = "Community Repos";
-"Transfer Sources from %@" = "Transfer Sources from %@";
-"Move all sources from %@ to Zebra" = "Move all sources from %@ to Zebra";
+"Community Repos" = "Community Maps";
+"Transfer Sources from %@" = "Transfer Maps from %@";
+"Move all sources from %@ to Zebra" = "Move all sources from %@ t' Zebra";
 "Utility repo for %@" = "Utility repo for %@";
 "Transfer Sources" = "Transfer Sources";
 "Utilities" = "Utilities";
@@ -71,7 +71,7 @@
 "Repo Featured" = "Repo Featured";
 "Random" = "Random";
 "Feature Type" = "Feature Type";
-"Select Repos to be Featured" = "Select Repos to be Featured";
+"Select Repos to be Featured" = "Select Repos t' be Featured";
 
 "Enable News" = "Enable News";
 
@@ -127,7 +127,7 @@
 "Show Updates" = "Show Updates";
 "Ignore Updates" = "Ignore Updates";
 "Select Version" = "Select Version";
-"Select a version to upgrade to" = "Select a version to upgrade to";
+"Select a version to upgrade to" = "Select a version t' upgrade t'";
 "Package" = "Package";
 "Information" = "Information";
 "Upgrade All" = "Upgrade All";
@@ -137,19 +137,19 @@
 "Size" = "Size";
 "Queue" = "Queue";
 "Clear" = "Clear";
-"Are you sure you want to clear Queue?" = "Are you sure you want to clear Queue?";
+"Are you sure you want to clear Queue?" = "Are you sure you want t' clear Queue?";
 "Available Upgrades" = "Available Upgrades";
 "Ignored Upgrades" = "Ignored Upgrades";
 "Recent" = "Recent";
 "Installed Files" = "Installed Files";
 "Modify" = "Modify";
-"Authenticate to initiate purchase." = "Authenticate to initiate purchase.";
+"Authenticate to initiate purchase." = "Authenticate t' initiate purchase.";
 "Please relogin your account that is used to purchase this package (Possibly %@)" = "Please relogin your account that is used to purchase this package (Possibly %@)";
 "More by this Developer" = "More by this Developer";
 "Installed Version" = "Installed Version";
 
-"Add to Wish List" = "Add to Wish List";
-"Remove from Wish List" = "Remove from Wish List";
+"Add to Wish List" = "Add t' Treasure Map";
+"Remove from Wish List" = "Remove from Treasure Map";
 
 // Search
 
