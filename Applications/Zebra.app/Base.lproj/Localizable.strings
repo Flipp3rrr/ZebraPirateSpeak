@@ -25,8 +25,8 @@
 "Community Repos" = "Community Sea Maps";
 "Transfer Sources from %@" = "Transfer sea maps from %@";
 "Move all sources from %@ to Zebra" = "Move all sea maps from %@ t' Zebra";
-"Utility repo for %@" = "Utility repo for %@";
-"Transfer Sources" = "Transfer Sources";
+"Utility repo for %@" = "Utility Sea Map fer %@";
+"Transfer Sources" = "Transfer Sea Maps";
 "Utilities" = "Utilities";
 "Please Wait..." = "Wait you landlubber!";
 "Verifying Source(s)" = "Looking for hidden treasures";
@@ -41,27 +41,27 @@
 
 // Settings
 
-"Settings" = "Settings";
+"Settings" = "Settin's";
 "Version" = "Version";
 "Information" = "Information";
 "Graphics" = "Graphics";
 "Featured" = "Featured";
 "News" = "News";
-"Search" = "Search";
+"Search" = "Find";
 "Miscellaneous" = "Miscellaneous";
 "Advanced" = "Advanced";
 
 "Report a Bug" = "Report a Bug";
 
 "Tint Color" = "Tint Color";
-"Default" = "Default";
+"Default" = "Borin’";
 "Blue" = "Blue";
 "Orange" = "Orange";
 "White" = "White";
 "Black" = "Black";
 
 "Dark Mode" = "Dark Mode";
-"Default" = "Default";
+"Default" = "Borin’";
 "OLED" = "OLED";
 "iOS 13" = "iOS 13";
 
@@ -81,24 +81,24 @@
 "Text" = "Text";
 "Icon" = "Icon";
 "Open Documents Directory" = "Open Documents Directory";
-"Clear Image Cache" = "Clear Image Cache";
-"Clear Keychain" = "Clear Keychain";
+"Clear Image Cache" = "Clearrr Image Cache";
+"Clear Keychain" = "Clearrr Keychain";
 
-"Loading..." = "Loading...";
+"Loading..." = "Loadin’...";
 
-"Resetting image cache completed" = "Resetting image cache completed";
+"Resetting image cache completed" = "Resettin’ picture cache completed";
 "Clearing keychain completed" = "Clearing keychain completed";
 
 // Sources
 
-"Sources" = "Sources";
-"Local Repository" = "Local Repository";
-"Locally installed packages" = "Locally installed packages";
+"Sources" = "Treasure Maps";
+"Local Repository" = "Native Treasure Map";
+"Locally installed packages" = "Native installed bottles of rum";
 "Unknown" = "Unknown";
-"No repository urls detected." = "No repository urls detected.";
-"You have already added these repositories." = "You have already added these repositories.";
-"Error verifying repository" = "Error verifying repository";
-"Error verifying repositories" = "Error verifying repositories";
+"No repository urls detected." = "No treasure map urls detected.";
+"You have already added these repositories." = "Ye ’ave already added these treasure maps.";
+"Error verifying repository" = "Error verifyin’ treasure map";
+"Error verifying repositories" = "Error verifyin’ treasure maps";
 "Unknown error." = "Unknown error.";
 "Invalid URL" = "Invalid URL";
 "Enter URL" = "Enter URL";
