@@ -105,7 +105,7 @@
 "Add Repo(s)" = "Add Sea Map(s)";
 "Add" = "Add";
 "Add Multiple" = "Add Multiple";
-"Would you like to add the URL from your clipboard?" = " Would ye like to add the URL from yer clipboard?";
+"Would you like to add the URL from your clipboard?" = "Would ye like to add the URL from yer clipboard?";
 "Please Wait..." = "Please Wait...";
 "Verifying Source(s)" = "Verifying Sea Map(s)";
 "Unable to verify Repo" = "Unable to verify Sea Map";
@@ -178,7 +178,7 @@
 "Updating icon cache asynchronously..." = "Updatin’ icon cache asynchronously...";
 "This may take awhile and Zebra may crash. It is okay if it does." = "This here may take awhile an' zebra may crash. It be okay if it does.";
 "Close Zebra" = "Close Zebra";
-"Restart SpringBoard" = "Restart Plank";
+"Restart SpringBoard" = "Walk the Plank";
 "Downloading" = "Downloadin’";
 "Downloading Packages..." = "Downloadin’ Bottles of Rum...";
 "Installing" = "Installin’";
