@@ -25,8 +25,8 @@
 "Community Repos" = "Community Sea Maps";
 "Transfer Sources from %@" = "Transfer sea maps from %@";
 "Move all sources from %@ to Zebra" = "Move all sea maps from %@ t' Zebra";
-"Utility repo for %@" = "Utility repo for %@";
-"Transfer Sources" = "Transfer Sources";
+"Utility repo for %@" = "Utility Sea Map fer %@";
+"Transfer Sources" = "Transfer Sea Maps";
 "Utilities" = "Utilities";
 "Please Wait..." = "Wait you landlubber!";
 "Verifying Source(s)" = "Looking for hidden treasures";
@@ -41,27 +41,27 @@
 
 // Settings
 
-"Settings" = "Settings";
+"Settings" = "Settin's";
 "Version" = "Version";
 "Information" = "Information";
 "Graphics" = "Graphics";
 "Featured" = "Featured";
 "News" = "News";
-"Search" = "Search";
+"Search" = "Find";
 "Miscellaneous" = "Miscellaneous";
 "Advanced" = "Advanced";
 
 "Report a Bug" = "Report a Bug";
 
 "Tint Color" = "Tint Color";
-"Default" = "Default";
+"Default" = "Borin’";
 "Blue" = "Blue";
 "Orange" = "Orange";
 "White" = "White";
 "Black" = "Black";
 
 "Dark Mode" = "Dark Mode";
-"Default" = "Default";
+"Default" = "Borin’";
 "OLED" = "OLED";
 "iOS 13" = "iOS 13";
 
@@ -81,40 +81,40 @@
 "Text" = "Text";
 "Icon" = "Icon";
 "Open Documents Directory" = "Open Documents Directory";
-"Clear Image Cache" = "Clear Image Cache";
-"Clear Keychain" = "Clear Keychain";
+"Clear Image Cache" = "Clearrr Picture Cache";
+"Clear Keychain" = "Clearrr Keychain";
 
-"Loading..." = "Loading...";
+"Loading..." = "Loadin’...";
 
-"Resetting image cache completed" = "Resetting image cache completed";
+"Resetting image cache completed" = "Resettin’ picture cache completed";
 "Clearing keychain completed" = "Clearing keychain completed";
 
 // Sources
 
-"Sources" = "Sources";
-"Local Repository" = "Local Repository";
-"Locally installed packages" = "Locally installed packages";
+"Sources" = "Sea Maps";
+"Local Repository" = "Native Sea Map";
+"Locally installed packages" = "Native installed bottles of rum";
 "Unknown" = "Unknown";
-"No repository urls detected." = "No repository urls detected.";
-"You have already added these repositories." = "You have already added these repositories.";
-"Error verifying repository" = "Error verifying repository";
-"Error verifying repositories" = "Error verifying repositories";
+"No repository urls detected." = "No sea map urls detected.";
+"You have already added these repositories." = "Ye ’ave already added these sea maps.";
+"Error verifying repository" = "Error verifyin’ sea map";
+"Error verifying repositories" = "Error verifyin’ sea maps";
 "Unknown error." = "Unknown error.";
 "Invalid URL" = "Invalid URL";
 "Enter URL" = "Enter URL";
-"Add Repo(s)" = "Add Repo(s)";
+"Add Repo(s)" = "Add Sea Map(s)";
 "Add" = "Add";
 "Add Multiple" = "Add Multiple";
-"Would you like to add the URL from your clipboard?" = "Would you like to add the URL from your clipboard?";
+"Would you like to add the URL from your clipboard?" = "Would ye like to add the URL from yer clipboard?";
 "Please Wait..." = "Please Wait...";
-"Verifying Source(s)" = "Verifying Source(s)";
-"Unable to verify Repo" = "Unable to verify Repo";
+"Verifying Source(s)" = "Verifying Sea Map(s)";
+"Unable to verify Repo" = "Unable to verify Sea Map";
 "Refresh" = "Refresh";
 "Log Out" = "Log Out";
-"Purchased Packages" = "Purchased Packages";
+"Purchased Packages" = "Purchased Bottles of Rum";
 "Purchased" = "Purchased";
 
-"All Packages" = "All Packages";
+"All Packages" = "All Bottles of Rum";
 "Delete" = "Delete";
 
 // Changes
@@ -123,12 +123,12 @@
 
 // Packages
 
-"Packages" = "Packages";
+"Packages" = "Bottles of Rum";
 "Show Updates" = "Show Updates";
 "Ignore Updates" = "Ignore Updates";
 "Select Version" = "Select Version";
 "Select a version to upgrade to" = "Select a version t' upgrade t'";
-"Package" = "Package";
+"Package" = "Bottle of Rum";
 "Information" = "Information";
 "Upgrade All" = "Upgrade All";
 "Loaded" = "Loaded";
@@ -144,8 +144,8 @@
 "Installed Files" = "Installed Files";
 "Modify" = "Modify";
 "Authenticate to initiate purchase." = "Authenticate t' initiate purchase.";
-"Please relogin your account that is used to purchase this package (Possibly %@)" = "Please relogin your account that is used to purchase this package (Possibly %@)";
-"More by this Developer" = "More by this Developer";
+"Please relogin your account that is used to purchase this package (Possibly %@)" = "Please relogin yer account that there be used to purchase this here bottle of rum (Possibly %@)";
+"More by this Developer" = "More by this here Pirate";
 "Installed Version" = "Installed Version";
 
 "Add to Wish List" = "Add t' Treasure Map";
@@ -153,49 +153,49 @@
 
 // Search
 
-"Search" = "Search";
-"Clear Search" = "Clear Search";
-"This search query is too short for the full search, please use a longer query." = "This search query is too short for the full search, please use a longer query.";
+"Search" = "Find";
+"Clear Search" = "Clear Find Barrr";
+"This search query is too short for the full search, please use a longer query." = "This here search query be too short fer the full search, please use a longer query.";
 "No Results Found" = "No Results Found";
 
 // Downloads
 
 "Downloads" = "Downloads";
-"Error while opening sources.list" = "Error while opening sources.list";
-"The repo %@ is incompatible with your jailbreak." = "The repo %@ is incompatible with your jailbreak.";
-"It may cause issues if you add it to Zebra resulting in possible restore." = "It may cause issues if you add it to Zebra resulting in possible restore.";
-"Please remove this repo from your sources.list file." = "Please remove this repo from your sources.list file.";
+"Error while opening sources.list" = "Error while openin’ sources.list";
+"The repo %@ is incompatible with your jailbreak." = "The sea map %@ be incompatible with yer jailbreak.";
+"It may cause issues if you add it to Zebra resulting in possible restore." = "It may cause issues if ye add it to Zebra resultin' in possible restore.";
+"Please remove this repo from your sources.list file." = "Please remove this here sea map from yer sources.list file.";
 "Incorrect documents permissions." = "Incorrect documents permissions.";
 "Could not determine device information." = "Could not determine device information.";
-"Could not find a download URL for" = "Could not find a download URL for";
-"%@ hasn't been modified" = "%@ hasn't been modified";
+"Could not find a download URL for" = "Could not find a download URL fer";
+"%@ hasn't been modified" = "%@ ‘asn’t been modified";
 "Could not parse %@ from %@" = "Could not parse %@ from %@";
 
 // Console
 
 "Console" = "Console";
-"Performing actions" = "Performing actions";
-"Updating icon cache asynchronously..." = "Updating icon cache asynchronously...";
-"This may take awhile and Zebra may crash. It is okay if it does." = "This may take awhile and Zebra may crash. It is okay if it does.";
+"Performing actions" = "Performin’ actions";
+"Updating icon cache asynchronously..." = "Updatin’ icon cache asynchronously...";
+"This may take awhile and Zebra may crash. It is okay if it does." = "This here may take awhile an' zebra may crash. It be okay if it does.";
 "Close Zebra" = "Close Zebra";
-"Restart SpringBoard" = "Restart SpringBoard";
-"Downloading" = "Downloading";
-"Downloading Packages..." = "Downloading Packages...";
-"Installing" = "Installing";
-"Installing Packages..." = "Installing Packages...";
-"Removing" = "Removing";
-"Removing Packages..." = "Removing Packages...";
-"Reinstalling" = "Reinstalling";
-"Reinstalling Packages..." = "Reinstalling Packages...";
-"Upgrading" = "Upgrading";
-"Upgrading Packages..." = "Upgrading Packages...";
+"Restart SpringBoard" = "Walk the Plank";
+"Downloading" = "Downloadin’";
+"Downloading Packages..." = "Downloadin’ Bottles of Rum...";
+"Installing" = "Installin’";
+"Installing Packages..." = "Installin’ Bottles of Rum...";
+"Removing" = "Removin’";
+"Removing Packages..." = "Removin’ Bottles of Rum...";
+"Reinstalling" = "Reinstallin’";
+"Reinstalling Packages..." = "Reinstallin’ Bottles of Rum...";
+"Upgrading" = "Upgradin’";
+"Upgrading Packages..." = "Upgradin’ Bottles of Rym...";
 "Complete" = "Complete";
 "Finished!" = "Finished!";
 "Return to Queue" = "Return to Queue";
-"Importing local packages." = "Importing local packages.";
-"Finished importing local packages." = "Finished importing local packages.";
-"One or more packages failed to download." = "One or more packages failed to download.";
-"Click \"Return to Queue\" to return to the Queue and retry the download." = "Click \"Return to Queue\" to return to the Queue and retry the download.";
+"Importing local packages." = "Importin’ native bottles of rum.";
+"Finished importing local packages." = "Finished importin’ native bottles of rum.";
+"One or more packages failed to download." = "One or more bottles of rum failed to download.";
+"Click \"Return to Queue\" to return to the Queue and retry the download." = "Click \"Return to Queue\" to return to the Queue an’ retry the download.";
 
 // Queue
 
@@ -209,7 +209,7 @@
 "Abort" = "Abort";
 "Continue" = "Continue";
 "Download Size" = "Download Size";
-"Could not resolve dependency for %@" = "Could not resolve dependency for %@";
+"Could not resolve dependency for %@" = "Could not resolve dependency fer %@";
 "%@ conflicts with %@" = "%@ conflicts with %@";
 "%@ depends on %@" = "%@ depends on %@";
 "Removed by" = "Removed by";
